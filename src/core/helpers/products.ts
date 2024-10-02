@@ -1,5 +1,6 @@
 import { Product } from '@/core';
 
+// TODO: Alterar specs para ser um objeto cada, com name, description e value
 const products: Product[] = [
 	{
 		id: 1,
